@@ -3,7 +3,7 @@ the emergency fix often requires a small change and is therefore easy and fast t
 after the fix is brought into the network, it can be merged into the dev code and it can be reacted on the code change.
 so, in order to release an emergency fix:
 - fix it
-- test it in testnet (if it is possible to encounter the problem there)
+- test it in testnet (if it is possible to reproduce the problem there)
 - test in live-network
 - release it
 - merge the code to dev-branch
