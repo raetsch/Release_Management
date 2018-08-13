@@ -6,4 +6,5 @@ You are responsible to reduce service-impact near zero, otherwise your customers
 At the end, not to speak that zero impact means less support for users, which means more time for development!
 in terms of a crypto platform it becomes much more important, when others run services upon your platform. 
 The following short explanations will provide a very safe process to ensure maximum quality. This is achieved by slowing down the release cycle and do proper testing before a release with different steps as follows:
-link 
+[Code in development](code.txt)
+[emergency fix](emergency_fixes.txt)
