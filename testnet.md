@@ -8,4 +8,4 @@ At the end of the tests, both, developer and testers should decide, which testca
 The decision has to be documented so that the testcases can be done by something else next time.
 
 After this decision, the code is ready to enter the live-network
-link..
+[live-network evaluation phase](livenet-eval.md)

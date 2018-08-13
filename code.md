@@ -6,4 +6,4 @@ The testcases are neccessary to retest the function on a following release.
 After this is done, the new code will be added to the dev-repo, which is ideally only visible to testers.
 The new developed code must be kept away from the main branch until it is finally released (see emergency_fix for reason).
 
-Link to testnet-stage
+[testnet-phase](testnet.md)
