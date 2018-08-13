@@ -1,4 +1,4 @@
-#Developing Code
+# Developing Code
 
 Every developer is resposible for testing his own code, he plans to add to the platform. No news here.
 Additionally, he should write some notes (or a full documentation ;) ) about the new feature and to make the development perfect, he should also write some testcases for the following stage, where the code is tested in a test environment, like a Lab- or a testnet.

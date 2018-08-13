@@ -1,2 +1,4 @@
+# Encountered bugs after new release was published
+
 if a bug was found after the release process is already done, it depends on the severity of the encountered problem, how much of the process should be redone (a special case is an severity emergency for example). if small pieces in one function have to be rewritten, the testcases in testnet and live-network can be reduced to testing the single function.
 If more than one function is affected, it could be better to restart the process and make a new (bugfix)release of the new version. It depends and should be discussed after the bug is found and fixed.
