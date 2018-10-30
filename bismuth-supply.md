@@ -28,7 +28,7 @@ Adding this up, the maximum supply of Bismuth was:
 For better visibility, here is a picture:
 ![Oups, where is the plot?](/graphics/BIS_inf_red.png)
 
-##Past Hardfork on block 854660##
+## Past Hardfork on block 854660
 
 Ok, now we go for the red line after the hn-hardfork. Here is the actual code for the mining_reward:
 ```python
@@ -51,6 +51,8 @@ Now adding up with the new formula:
 Pre fork: **13700117 BIS**
 
 Post fork: **41701617 BIS**
+
+Therefore, the new max supply is:
 
 Sum: **55401734 BIS**
 
