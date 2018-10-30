@@ -58,6 +58,7 @@ Therefore, the new max supply is:
 Sum: **55401734 BIS**
 
 
+
 There is a bigLITTE thing now at the end:
 
 The hn rewards are actually paid infinitely. Means, after 10.000.000 blocks, the miners rewards are set to 0 (and so are dev rewards), only fees are paid. On every 10th block, the hn rewards are still paid to the actual hn payout address (8 BIS). This is not meant to be the final decision, in fact it was really never discussed, how we handle hypernode rewards after block 10.000.000. You can expect a change here in the future.
