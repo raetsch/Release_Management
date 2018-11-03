@@ -45,17 +45,19 @@ This is what changed there: **/ 2)) - Decimal("0.8")**
 What does this mean?
 
 The reduction per Block doubled. Also 0.8 BIS per block are collected as hypernode rewards. They are paid weekly and they are not part of the reduction.
-The hardfork for hypernodes happened at block **854660**. So, until the hardfork, there were around 13700117 BIS (with dev-rewards).
+The hardfork for hypernodes happened at block **854660**. So, until the hardfork, there were around 13727812 BIS (with dev-rewards).
 
 Now adding up with the new formula:
 
-Pre fork: **13700117 BIS**
+Pre fork: **13727812 BIS**
 
-Post fork: **41701617 BIS**
+Post fork: ** 50195106 BIS**
 
 Therefore, the new max supply is:
 
-Sum: **55401734 BIS**
+Sum: **63922918 BIS**
+
+The actual formula gives zero reward from **block 7100001** and above.
 
 
 ### There is a bigLITTLE thing now at the end:
