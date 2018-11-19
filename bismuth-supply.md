@@ -98,7 +98,7 @@ Here a table for quick overview:
 
 | Block | Supply | Milestone |
 | ------------- | ------------- | ------------- |
-| 7100000  |   | POW-rewards end approx 2030 | 
+| 7100000  | 61602918  | POW-rewards end approx 2030 | 
 | 10000000  | 63922918  | Mined approx 2036  |
 | 20000000  | 71922918  | Mined approx 2055  |
 | 30000000  | 79922918  | Mined approx 2074  |

@@ -201,7 +201,7 @@ if last_block_mined and network_height:
     plt.title('BIS-supply over blocks and estimated time, when milestone-block is mined') 
     
     #save the plot to file
-    plt.savefig('/graphics/supply.png', dpi=600)
+    plt.savefig('graphics/supply.png', dpi=600)
   
     # function to show the plot 
     plt.show()
@@ -266,7 +266,7 @@ if network_height and network_height:
     plt.title('BIS-rewards per category over blocks and estimated dates, when milestones  are passed') 
     
     #save the plot to file
-    plt.savefig('/graphics/rewards.png', dpi=600)
+    plt.savefig('graphics/rewards.png', dpi=600)
   
     # function to show the plot 
     plt.show() 
