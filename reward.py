@@ -3,7 +3,7 @@ import urllib3
 import json
 import time
 import datetime
-#plotly.tools.set_credentials_file(username='raetsch', api_key='ASBzv0TdgmsjVO7lhJuZ')
+
 
 
 def get_network_height():
