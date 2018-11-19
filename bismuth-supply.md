@@ -69,7 +69,7 @@ The plot is created by this [script](reward.py) and therefore shows the actual m
 As we can see here, the reward will last for about ... a long time. 
 
 
-###What does this now mean for the supply?
+### What does this now mean for the supply?
 
 Few lines above, we mentioned a total supply of approx 64 Mio BIS. This is the supply, we will see on block 10.000.000. **From there on, the supply will rise by 8 Mio BIS every 10 Mio Blocks. A rough estimation is: 420k BIS/year**.
 
@@ -81,9 +81,10 @@ So, around summer 2112 (arr, another rough estimation), the BIS-supply will be a
 100 Mio BIS will eventually be produced in more than 100 years.
 
 
-##Conclusion
+## Conclusion
 
 Yes, we have unlimited supply. 
+
 Yes, we already had discussed this and we think, we still have some years, where BIS will grow (in code and community) until we have to make a decission.
 
 **But as a holder, you told us other numbers!**
