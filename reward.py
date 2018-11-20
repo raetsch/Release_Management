@@ -3,7 +3,7 @@ import urllib3
 import json
 import time
 import datetime
-
+#plotly.tools.set_credentials_file(username='raetsch', api_key='ASBzv0TdgmsjVO7lhJuZ')
 
 
 def get_network_height():
@@ -146,19 +146,19 @@ if last_block_mined and network_height:
     plt.axvline(x=40)
     plt.axvline(x=50)
     #Estimation of date block 10M is mined
-    plt.text(10, 90, convert_to_date[0], fontsize=9)
+    plt.text(10, 90, convert_to_date[0], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(20, 90, convert_to_date[1], fontsize=9)
+    plt.text(20, 90, convert_to_date[1], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(30, 90, convert_to_date[2], fontsize=9)
+    plt.text(30, 90, convert_to_date[2], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(40, 90, convert_to_date[3], fontsize=9)
+    plt.text(40, 90, convert_to_date[3], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(50, 90, convert_to_date[4], fontsize=9)
+    plt.text(50, 90, convert_to_date[4], fontsize=12)
 
 
     plt.plot(block, supply, color='green', linestyle='solid', linewidth = 3, 
@@ -217,22 +217,22 @@ if network_height and network_height:
     plt.axvline(x=40)
     plt.axvline(x=50)
     #Estimation of date block 10M is mined
-    plt.text(10, 14, convert_to_date[0], fontsize=9)
+    plt.text(10, 14, convert_to_date[0], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(20, 14, convert_to_date[1], fontsize=9)
+    plt.text(20, 14, convert_to_date[1], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(30, 14, convert_to_date[2], fontsize=9)
+    plt.text(30, 14, convert_to_date[2], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(40, 14, convert_to_date[3], fontsize=9)
+    plt.text(40, 14, convert_to_date[3], fontsize=12)
     
     #Estimation of date block 10M is mined
-    plt.text(50, 14, convert_to_date[4], fontsize=9)
+    plt.text(50, 14, convert_to_date[4], fontsize=12)
     
     #estimated time, when mining reward ends
-    plt.text(7.1, 3, convert_to_date[5], fontsize=9)
+    plt.text(7.1, 3, convert_to_date[5], fontsize=12)
     
     plt.plot(block, reward_block_dev, color='blue', linestyle='solid', linewidth = 3, 
          marker='.', markerfacecolor='blue', markersize=4, label='dev blockreward')
